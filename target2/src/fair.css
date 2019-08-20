@@ -1,0 +1,45 @@
+body{
+	width: 300px;
+	font-family: sans-serif;
+}
+h1{
+	color: #1655ee;
+	height: 7em;
+	width: 42em;
+  	display: flex;
+ 	align-items: center;
+  	justify-content: center;
+}
+h1{
+	margin: 0;
+}
+.container{
+	text-align: centre;
+	display:flex;
+	box-sizing: border-box;
+	margin-top: 0px;
+	height: 8em;
+	width: 80em;
+	align-items: center;
+	justify-content: center;
+	transition: 0.8s;
+}
+.Btn{
+	border: 1px white;
+	background: green;
+	padding: 10px 40px;
+	border-radius: 50%;
+	font-size: 20px;
+	font-family:"sans-serif";
+	cursor: pointer;
+	margin: 10;
+	text-decoration: none;
+}
+.Button1,.Button2,.Button3,.Button4
+{
+	color: white;
+}
+.Button1:hover,.Button2:hover,.Button3:hover,.Button4:hover{
+	background-color: white;
+	color: #1655ee;
+}

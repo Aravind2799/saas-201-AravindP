@@ -1,0 +1,26 @@
+body {
+	width: 300px;
+	font-family: sans-serif;
+}
+h3 {
+	color: #1655ee;
+}
+label{
+	color: #A72259;
+	font-weight: bold;
+}
+
+.input-section{
+	padding: 10px;
+	margin: 5px;
+	background-color: #eee;
+	border-radius: 5px;
+
+}
+
+#submit{
+	background-color: #1655ee;
+	color: #fff;
+	font-size: 20px;
+	border-radius: 5px;
+}

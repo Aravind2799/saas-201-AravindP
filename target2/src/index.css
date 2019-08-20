@@ -1,0 +1,44 @@
+body{
+	width: 300px;
+	font-family: sans-serif;
+}
+h1{
+	color: black;
+	height: 7em;
+	width: 42em;
+  	display: flex;
+ 	align-items: center;
+  	justify-content: center;
+  	font-weight: bolder;
+}
+h1{
+	margin: 0;
+}
+.container{
+	text-align: centre;
+	display:flex;
+	flex-direction: column;
+	margin-top: 0px;
+	height: 8em;
+	width: 84em;
+	align-items: center;
+	justify-content: center;
+	transition: 0.8s;
+	font-weight: bolder;
+}
+a:link,a:visited{
+	border: 1px white;
+	background: green;
+	color:white;
+	padding: 10px 40px;
+	border-radius: 50%;
+	font-size: 20px;
+	font-family:"sans-serif";
+	cursor: pointer;
+	margin: 10;
+	text-decoration: none;
+}
+a:hover,a:active{
+	background-color: white;
+	color: black;
+}
