@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 2rem;
+}
+
+section {
+  margin-top: 2rem;
+}
+
+h1 {
+  margin: 0;
+  font-size: 25px;
+}
+
+p {
+  font-size: 14px;
+}
+
+header {
+  font-family: sans-serif;
+}
+
+h3 {
+  max-width: max-content;
+}
+
+h3 form {
+  float: right;
+  margin-left: 0.5rem;
+}
+
+input[type='submit'] {
+  cursor: pointer;
+}
+
+.btn-container {
+  margin-top: 0.5rem;
+}
